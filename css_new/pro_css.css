@@ -1,0 +1,55 @@
+.body_style {
+    background-image: url("../3326716e2adba9db67d0ce6803c031c8.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100%;
+}
+
+.container {
+    width: 60%;
+    margin-top: 10%;
+    color: white;
+}
+
+.col-12 {
+    flex: 0 0 auto;
+    width: 50%;
+}
+
+.btn {
+    width: 100%;
+    position: relative;
+}
+
+.btn-primary {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 25%;
+    background-color: #c99ea600;
+    border-color: #c9303087;
+    border-radius: 0.7rem;
+    font-size: 20px;
+}
+
+.col-md-6 {
+    flex: 0 0 auto;
+    width: 50%;
+}
+
+.col-md-4 {
+    flex: 0 0 auto;
+    width: 50%;
+}
+
+.form-radio-contaner {
+    flex: 0 0 auto;
+    width: 33.3333333%;
+}
+
+.form-control {
+    background-color: #e6dede0f;
+    color: white;
+    border-radius: .7rem;
+    border-color: #651d1d;
+}
